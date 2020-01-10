@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Boam1994/Boam1994.github.io-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+thème: Merlot-thème
+title; Welcome to Boam1994's home page
+description: Feel free to do whatever you want!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
